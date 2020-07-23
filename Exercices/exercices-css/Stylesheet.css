@@ -1,0 +1,38 @@
+.link1 {
+  color: rgb(255, 0, 0);
+  a:hover {
+    color: green;
+  }
+}
+div.link2 a {
+  color: rgb(109, 225, 0);
+  a:hover{
+    color:brown;
+  }
+
+}
+div.link2 p{
+  color: rgb(225, 0, 169);
+  text-transform: uppercase;
+}
+
+.link2:hover{
+  color:pink;
+  color:yellow;
+}
+
+.link3:hover {
+color: chartreuse;
+a:hover{color:red;}
+}
+.link4:hover {
+color: coral;
+a:hover{green;}
+}
+.link5:hover {
+color: darkgoldenrod;
+a:hover{color:white;}
+}
+body {
+  background-color: pink;
+}

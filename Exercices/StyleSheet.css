@@ -1,0 +1,37 @@
+a.google {
+  color: crimson;
+}
+a.google:hover {
+  color: pink;
+}
+a.fruits {
+  color: yellow;
+}
+a#netflix {
+  color: blueviolet;
+}
+a.amazon {
+  color: brown;
+}
+a.youtube {
+  color: aquamarine;
+}
+a::before {
+  content: '*';
+}
+a::after {
+  content: '*';
+}
+.rgba {
+  background-color: blue;
+}
+body {
+  background-image: url(./bg.jpg);
+}
+table {
+  width: 100%;
+}
+th,
+td {
+  border: 1px solid tomato;
+}
